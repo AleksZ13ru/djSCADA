@@ -10,3 +10,5 @@
      mail: admin@admin.ru
      pass: User1377
  }
+
+ репозиторий с исходником celery - https://github.com/celery/celery.git
